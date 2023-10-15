@@ -1,6 +1,6 @@
 # Loker - Job Board Web Application
 
-Demo : <a href="fziardiansyah.xyz">fziardiansyah.xyz</a>
+Demo : <a href="https://fziardiansyah.xyz">fziardiansyah.xyz</a>
 
 ## Overview
 
