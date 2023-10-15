@@ -13,7 +13,7 @@ Loker is a web application built with Laravel that serves as a job board platfor
 
 ## Features
 
-- **User Registration and Authentication**: Users can register for an account, log in, and maintain their profile.
+- **User Registration and Authentication**: Users can register for an account, log in, and manage their listings.
 
 - **Job Listings**: Users can create their own job listings, edit the existing ones, and delete them. 
 
