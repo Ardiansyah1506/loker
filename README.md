@@ -21,6 +21,8 @@ Loker is a web application built with Laravel that serves as a job board platfor
 
 - **Search and Filtering**: Users can search for job listings and apply filters using tags to find relevant job opportunities.
 
+- **Laravel Pagination**: Job listings are paginated using Laravel's built-in pagination feature, ensuring that long lists of job openings are presented in manageable chunks for improved user experience. Users can easily navigate through multiple pages of job listings.
+
 ## Tech
 
 - **Laravel**: The application is built on the Laravel PHP framework.
